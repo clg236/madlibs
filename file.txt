@@ -1,0 +1,3 @@
+This is a file about how to use Git and github. 
+
+First we initialize a...
